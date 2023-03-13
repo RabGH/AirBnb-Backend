@@ -15,6 +15,9 @@
     "sanity"
   ],
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.12",
     "@sanity/vision": "^3.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -27,6 +30,10 @@
     "@types/react": "^18.0.25",
     "@types/styled-components": "^5.1.26",
     "eslint": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-material-ui": "^1.0.1",
+    "eslint-plugin-mui": "^0.1.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.8.4",
     "typescript": "^4.0.0"
   },
